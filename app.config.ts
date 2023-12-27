@@ -1,6 +1,6 @@
 export default defineAppConfig({
   ui: {
-    primary: 'green',
+    primary: 'blue',
     gray: 'slate',
     footer: {
       bottom: {
@@ -53,9 +53,9 @@ export default defineAppConfig({
     }]
   },
   toc: {
-    title: 'Table of Contents',
+    title: 'Table of Content',
     bottom: {
-      title: 'Communities',
+      title: 'Community',
       edit: 'https://github.com/nuxt-ui-pro/docs/edit/main/content',
       links: [{
         icon: 'i-heroicons-star',
