@@ -28,7 +28,7 @@ export default defineAppConfig({
     }]
   },
   footer: {
-    credits: 'Copyright © 2023',
+    credits: 'Copyright © 2024',
     colorMode: false,
     links: [{
       icon: 'i-simple-icons-nuxtdotjs',
@@ -55,7 +55,7 @@ export default defineAppConfig({
   toc: {
     title: 'Table of Contents',
     bottom: {
-      title: 'Community',
+      title: 'Communities',
       edit: 'https://github.com/nuxt-ui-pro/docs/edit/main/content',
       links: [{
         icon: 'i-heroicons-star',
